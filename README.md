@@ -4,6 +4,11 @@
    - [Examples_From_book](https://github.com/PacktPublishing/ARM-Cortex-M4-Cookbook) 
 <img src= "https://github.com/GlebGodlevski/Books-/assets/93090351/5173b5dd-4774-465b-acc3-b0d9df900f64" alt="diagram" width="200"/>
 
+2) Hands-On RTOS with Microcontrollers (2020)
+
+3) Embedded Programming with Modern C++ Cookbook (Linux)
+
+4) https://www.embeddedrelated.com/documents.php#
 
 
 
